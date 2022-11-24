@@ -10,3 +10,5 @@ if __name__ == '__main__':
     transactions = read_transactions(file_name)
     for transaction in transactions:
         pretty_print_transaction(transaction)
+        
+ # test
